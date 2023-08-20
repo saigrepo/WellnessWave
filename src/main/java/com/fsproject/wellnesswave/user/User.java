@@ -1,7 +1,6 @@
-package com.fsproject.wellnesswave.User;
+package com.fsproject.wellnesswave.user;
 
 import jakarta.persistence.*;
-import jdk.jfr.Enabled;
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
