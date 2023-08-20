@@ -1,4 +1,4 @@
-package com.fsproject.wellnesswave.User;
+package com.fsproject.wellnesswave.user;
 
 public enum Role {
 
